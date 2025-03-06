@@ -122,6 +122,13 @@ export const SEARCH_INDEX = [
     "extraFields": []
   },
   {
+    "title": "Changelog Tags",
+    "headers": [],
+    "path": "/changelogs/tags.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Posts",
     "headers": [
       {
@@ -137,14 +144,7 @@ export const SEARCH_INDEX = [
     "extraFields": []
   },
   {
-    "title": "Changelog Tags",
-    "headers": [],
-    "path": "/changelogs/tags.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "About The Mod",
+    "title": "About TOR-W",
     "headers": [
       {
         "level": 2,
@@ -210,28 +210,6 @@ export const SEARCH_INDEX = [
     "extraFields": []
   },
   {
-    "title": "Website Changes",
-    "headers": [
-      {
-        "level": 2,
-        "title": "⚒️ Changes",
-        "slug": "changes",
-        "link": "#changes",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "⭐ New!",
-        "slug": "new",
-        "link": "#new",
-        "children": []
-      }
-    ],
-    "path": "/posts/tor-w-posts/website.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Modding Us Beta Changelogs",
     "headers": [],
     "path": "/changelogs/modding-us/dev.html",
@@ -270,6 +248,28 @@ export const SEARCH_INDEX = [
     "title": "TOR-W Changelogs",
     "headers": [],
     "path": "/changelogs/tor-w/tor-w.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Website Changes",
+    "headers": [
+      {
+        "level": 2,
+        "title": "⚒️ Changes",
+        "slug": "changes",
+        "link": "#changes",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "⭐ New!",
+        "slug": "new",
+        "link": "#new",
+        "children": []
+      }
+    ],
+    "path": "/posts/tor-w-posts/website.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -433,16 +433,16 @@ export const SEARCH_INDEX = [
     "extraFields": []
   },
   {
-    "title": "Impostors",
+    "title": "Crewmate Roles",
     "headers": [],
-    "path": "/roles/modding-us/impostors/impostors.html",
+    "path": "/roles/modding-us/crewmates/crewmates.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Crewmate Roles",
+    "title": "Impostors",
     "headers": [],
-    "path": "/roles/modding-us/crewmates/crewmates.html",
+    "path": "/roles/modding-us/impostors/impostors.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -476,6 +476,13 @@ export const SEARCH_INDEX = [
     "extraFields": []
   },
   {
+    "title": "Impostors",
+    "headers": [],
+    "path": "/roles/tor-w/impostors/impostors.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Neutral Roles",
     "headers": [
       {
@@ -491,9 +498,23 @@ export const SEARCH_INDEX = [
     "extraFields": []
   },
   {
-    "title": "Impostors",
+    "title": "",
     "headers": [],
-    "path": "/roles/tor-w/impostors/impostors.html",
+    "path": "/roles/tor-w/crewmates/power/illusionist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [],
+    "path": "/roles/tor-w/crewmates/power/telepath.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [],
+    "path": "/roles/tor-w/crewmates/power/timekeeper.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -528,42 +549,8 @@ export const SEARCH_INDEX = [
   {
     "title": "",
     "headers": [],
-    "path": "/roles/tor-w/crewmates/power/illusionist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "",
-    "headers": [],
-    "path": "/roles/tor-w/crewmates/power/telepath.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "",
-    "headers": [],
-    "path": "/roles/tor-w/crewmates/power/timekeeper.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "",
-    "headers": [],
     "path": "/404.html",
     "pathLocale": "/",
     "extraFields": []
   }
 ]
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updateSearchIndex) {
-    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ searchIndex }) => {
-    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
-  })
-}

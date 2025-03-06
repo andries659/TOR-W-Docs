@@ -1,8 +1,8 @@
 ---
-title: About The Mod
+title: About TOR-W
 prev: /abouts/about.html
 ---
-# About The Mod
+# About TOR-W
 The mod was originally a fork, but was removed as a fork to prevent any types of backlash. The mod was created by a group of developers who wanted to create a mod that was more community driven. The mod is still in its early stages, and will have updates most of the time **(mostly during the holidays)**
 
 ## The Mission For TOR-W

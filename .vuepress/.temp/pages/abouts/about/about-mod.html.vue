@@ -1,4 +1,4 @@
-<template><div><h1 id="about-the-mod" tabindex="-1"><a class="header-anchor" href="#about-the-mod"><span>About The Mod</span></a></h1>
+<template><div><h1 id="about-tor-w" tabindex="-1"><a class="header-anchor" href="#about-tor-w"><span>About TOR-W</span></a></h1>
 <p>The mod was originally a fork, but was removed as a fork to prevent any types of backlash. The mod was created by a group of developers who wanted to create a mod that was more community driven. The mod is still in its early stages, and will have updates most of the time <strong>(mostly during the holidays)</strong></p>
 <h2 id="the-mission-for-tor-w" tabindex="-1"><a class="header-anchor" href="#the-mission-for-tor-w"><span>The Mission For TOR-W</span></a></h2>
 <p>TOR-W is a highly customizable Among Us mod built with role and gameplay flexibility in mind. It emphasizes unique, host-controlled mechanics that enhance strategy, teamwork, and sabotage opportunities.</p>
