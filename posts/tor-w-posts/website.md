@@ -22,4 +22,5 @@ This page lists the changelogs for the website itself. This includes changes to 
 \+ <font color=green><b>NEW</b></font>: Added [Game Modifiers](/roles/settings/modifiers.html) in `Roles`.<br>
 \+ <font color=green><b>NEW</b></font>: Added [Resources](/roles/settings/resources.html) in `Roles`.<br>
 \+ <font color=#12edaf><b>RENAMED</b></font>: Renamed `About the Mod` to [About TOR-W](/abouts/about/about-mod.html).<br>
-\+ <font color=#12edaf><b>RENAMED</b></font>: Renamed `"Latest Changelogs"` to `"Latest TOR-W Changelogs"` at [Changelogs](/changelogs/tor-w/tor-w.html).
+\+ <font color=#12edaf><b>RENAMED</b></font>: Renamed `"Latest Changelogs"` to `"Latest TOR-W Changelogs"` at [Changelogs](/changelogs/tor-w/tor-w.html).<br>
+\+ <font color=green><b>NEW</b></font>: Added a new button named `Moding Us Roles` in the [Home](/) page.
