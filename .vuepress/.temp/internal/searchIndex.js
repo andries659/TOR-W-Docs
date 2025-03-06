@@ -144,6 +144,27 @@ export const SEARCH_INDEX = [
     "extraFields": []
   },
   {
+    "title": "Modding Us Beta Changelogs",
+    "headers": [],
+    "path": "/changelogs/modding-us/dev.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Modding Us Changelogs",
+    "headers": [],
+    "path": "/changelogs/modding-us/mu.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Modding Us Stable Changelogs",
+    "headers": [],
+    "path": "/changelogs/modding-us/stable.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "About TOR-W",
     "headers": [
       {
@@ -206,27 +227,6 @@ export const SEARCH_INDEX = [
       }
     ],
     "path": "/abouts/about/aboutUs.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Modding Us Beta Changelogs",
-    "headers": [],
-    "path": "/changelogs/modding-us/dev.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Modding Us Changelogs",
-    "headers": [],
-    "path": "/changelogs/modding-us/mu.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Modding Us Stable Changelogs",
-    "headers": [],
-    "path": "/changelogs/modding-us/stable.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -433,16 +433,16 @@ export const SEARCH_INDEX = [
     "extraFields": []
   },
   {
-    "title": "Crewmate Roles",
+    "title": "Impostors",
     "headers": [],
-    "path": "/roles/modding-us/crewmates/crewmates.html",
+    "path": "/roles/modding-us/impostors/impostors.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Impostors",
+    "title": "Crewmate Roles",
     "headers": [],
-    "path": "/roles/modding-us/impostors/impostors.html",
+    "path": "/roles/modding-us/crewmates/crewmates.html",
     "pathLocale": "/",
     "extraFields": []
   },
