@@ -8,6 +8,7 @@ Most of the time, they are posted here, and on the Github page.</p>
 </div>
 <ul>
 <li><RouteLink to="/posts/tor-w-posts/website.html">Website Changes</RouteLink></li>
+<li><RouteLink to="/posts/tor-w-posts/planned.html">Planned Stuff 👀</RouteLink></li>
 </ul>
 </div></template>
 

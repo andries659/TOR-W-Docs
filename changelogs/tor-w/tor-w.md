@@ -2,7 +2,7 @@
 title: TOR-W Changelogs
 sidebar:
 - { text: TOR-W Changelogs, link: /changelogs/tor-w/tor-w.html}
-- { text: TOR-W Dev Changelogs, link: /changelogs/tor-w/dev.html}
+- { text: TOR-W Test Changelogs, link: /changelogs/tor-w/dev.html}
 - { text: TOR-W Stable Changelogs, link: /changelogs/tor-w/stable.html}
 ---
 # TOR-W Changelogs

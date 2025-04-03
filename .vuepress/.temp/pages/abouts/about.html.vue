@@ -6,7 +6,6 @@
 <p>Welcome to the About page of this site!</p>
 <p>This is the official page that contains all the &quot;About&quot; information for this site &amp; mod. You can find information about the site's purpose, its creator, and more!</p>
 <ul>
-<li><RouteLink to="/abouts/about/aboutmu.html">About Modding Us</RouteLink></li>
 <li><RouteLink to="/abouts/about/about-mod.html">About the Mod</RouteLink></li>
 <li><RouteLink to="/abouts/about/aboutUs.html">About Us</RouteLink></li>
 </ul>

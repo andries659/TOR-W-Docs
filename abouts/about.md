@@ -13,7 +13,6 @@ Welcome to the About page of this site!
 
 This is the official page that contains all the "About" information for this site & mod. You can find information about the site's purpose, its creator, and more!
 
-- [About Modding Us](/abouts/about/aboutmu.html)
 - [About the Mod](/abouts/about/about-mod.html)
 - [About Us](/abouts/about/aboutUs.html)
 

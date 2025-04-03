@@ -1,0 +1,41 @@
+$primary-font: Arial, sans-serif;
+$bold-weight: 700;
+
+body {
+  font-family: $primary-font;
+  font-weight: normal;
+}
+
+strong, b {
+  font-weight: $bold-weight !important;
+}
+
+.version {
+    background-color: #3498db !important;
+    color: white !important;
+}
+
+.planned {
+    background-color: #0026ce !important;
+    color: white !important;
+}
+
+.crew {
+    background-color: #17d0e9 !important;
+    color: black !important;
+}
+
+.imp {
+    background-color: #ff0000 !important;
+    color: white !important;
+}
+
+.neutral {
+    background-color: #363636 !important;
+    color: white !important;
+}
+
+.coven {
+    background-color: #4400c2 !important;
+    color: white !important;
+}

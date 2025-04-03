@@ -1,5 +1,5 @@
 <template><div><center>
-<a href="https://discord.gg/HczqtuBfcu" target="_blank"><img src="https://img.shields.io/badge/TOR W Discord -%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5662f6"/></a>&nbsp; <a href="https://github.com/andries659/Town-Of-Re-Worked" target="_blank"><img src="https://img.shields.io/badge/TOR W Github -%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>&nbsp;
+<a href="https://discord.gg/HczqtuBfcu" target="_blank"><img src="https://img.shields.io/badge/TOR W Discord -%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5662f6"/></a>&nbsp; <a href="https://github.com/TownofReworked/TOR-W-MiraAPI" target="_blank"><img src="https://img.shields.io/badge/TOR W Github -%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>&nbsp;
 </center>
 <h1 id="welcome-to-the-tor-w-website" tabindex="-1"><a class="header-anchor" href="#welcome-to-the-tor-w-website"><span><img src="/images/welcome.png" alt="Roles" style="width: 100%; max-width: 32px; height: left; vertical-align: middle;"> Welcome to the TOR-W Website</span></a></h1>
 <p>Here you'll find information about TOR-W, our custom Among Us mod, including features, installation, and gameplay guides.</p>

@@ -8,11 +8,8 @@ actions:
   - text: TOR-W Role Info
     link: /roles/tor-w/roles.html
     type: secondary
-  - text: Modding Us Role Info
-    link: /roles/modding-us/mu-roles.html
-    type: secondary
   - text: Install Now!
-    link: https://github.com/andries659/Town-Of-Re-Worked/releases/latest
+    link: https://github.com/TownofReworked/TOR-W-MiraAPI/releases
     type: primary
   - text: FAQ
     link: /faq.html
@@ -21,7 +18,7 @@ footer: © 2025 TOR-W - All Rights Reserved
 ---
 
 <center>
-<a href="https://discord.gg/HczqtuBfcu" target="_blank"><img src="https://img.shields.io/badge/TOR%20W%20Discord%20-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5662f6"/></a>&nbsp; <a href="https://github.com/andries659/Town-Of-Re-Worked" target="_blank"><img src="https://img.shields.io/badge/TOR%20W%20Github%20-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>&nbsp;
+<a href="https://discord.gg/HczqtuBfcu" target="_blank"><img src="https://img.shields.io/badge/TOR%20W%20Discord%20-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5662f6"/></a>&nbsp; <a href="https://github.com/TownofReworked/TOR-W-MiraAPI" target="_blank"><img src="https://img.shields.io/badge/TOR%20W%20Github%20-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>&nbsp;
 </center>
 
 # <img src="/images/welcome.png" alt="Roles" style="width: 100%; max-width: 32px; height: left; vertical-align: middle;"> Welcome to the TOR-W Website

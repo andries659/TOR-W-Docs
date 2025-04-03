@@ -12,3 +12,4 @@ Most of the time, they are posted here, and on the Github page.
 :::
 
 - [Website Changes](/posts/tor-w-posts/website.html)
+- [Planned Stuff :eyes:](/posts/tor-w-posts/planned.html)

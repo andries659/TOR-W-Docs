@@ -1,0 +1,3 @@
+import comp from "C:/Users/User/Desktop/TOR-W Website/docs/.vuepress/.temp/pages/roles/tor-w/neutrals/neutralroles/Traitor.html.vue"
+const data = JSON.parse("{\"path\":\"/roles/tor-w/neutrals/neutralroles/Traitor.html\",\"title\":\"Traitor\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"Traitor\",\"next\":\"/roles/tor-w/neutrals/neutrals.html\",\"sidebar\":[{\"text\":\"Back to Neutral Roles\",\"link\":\"/roles/tor-w/neutrals/neutrals.html\"},{\"text\":\"Jester\",\"link\":\"/roles/tor-w/neutrals/neutralroles/Jester.html\"},{\"text\":\"Traitor\",\"link\":\"/roles/tor-w/neutrals/neutralroles/Traitor.html\"}]},\"headers\":[],\"git\":{},\"filePathRelative\":\"roles/tor-w/neutrals/neutralroles/Traitor.md\"}")
+export { comp, data }
