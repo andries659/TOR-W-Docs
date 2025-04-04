@@ -1,13 +1,12 @@
 ---
 title: TOR-W Roles
-image: "/images/roles.jpg"
 ---
 # TOR-W Roles
 
 ## <a href="#latest-versions" style="color:#42c99f">Latest Versions</a>
 | Version Type | Version |
 |:--------- |:----------- |
-| <a href="/changelogs/tor-w/dev.html" style="color:#c9428f">**Latest Test Build**</a> | v1.0.0 Test 1 |
+| <a href="/changelogs/tor-w/dev.html" style="color:#c9428f">**Latest Test Build**</a> | v1.0.0 Test 2 |
 | <a href="/changelogs/tor-w/stable.html" style="color:#4293c9">**Latest Stable**</a> | N/A |
 
 ## <a href="#role-summary" style="color:#c9ac42">Role Summary</a>

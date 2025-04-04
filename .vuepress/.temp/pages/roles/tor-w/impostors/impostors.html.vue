@@ -2,7 +2,7 @@
 <hr>
 <p><strong>Eliminate all <font color="#8cffff">Crewmates</font> and <font color="gray">Neutrals</font> from the game by any means necessary. Each role has a unique way of accomplishing their goal. From mass-killing to framing others, they have to find any means necessary to win.</strong></p>
 <h2 id="roles" tabindex="-1"><a class="header-anchor" href="#roles"><span>🚀 Roles 🔧</span></a></h2>
-<p>| <RouteLink to="/roles/tor-w/impostors/improles/Swooper.html">Swooper</RouteLink> |</p>
+<p>| <RouteLink to="/roles/tor-w/impostors/improles/Dragger.html">Dragger</RouteLink> |</p>
 </div></template>
 
 

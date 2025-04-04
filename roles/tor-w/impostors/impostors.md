@@ -16,4 +16,4 @@ sidebar:
 **Eliminate all <font color="#8cffff">Crewmates</font> and <font color="gray">Neutrals</font> from the game by any means necessary. Each role has a unique way of accomplishing their goal. From mass-killing to framing others, they have to find any means necessary to win.**
 
 ## :rocket: Roles :wrench:
-| [Swooper](/roles/tor-w/impostors/improles/Swooper.html) |
+| [Dragger](/roles/tor-w/impostors/improles/Dragger.html) |

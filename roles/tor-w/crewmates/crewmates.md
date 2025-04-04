@@ -17,4 +17,4 @@ sidebar:
 **Focus on finding the <font color="red">Impostors</font> and completing tasks. For newer players, it is recommended to try out Basic, Support, and few Killing <font color="#8cffff">Crewmate</font> roles, as some can get pretty complicated.**
 
 ## :rocket: Roles :wrench:
-| [Chameleon](/roles/tor-w/crewmates/crewroles/Chameleon.html) | [Mayor](/roles/tor-w/crewmates/crewroles/Mayor.html) | [Medic](/roles/tor-w/crewmates/crewroles/Medic.html) | [Teleporter](/roles/tor-w/crewmates/crewroles/Teleporter.html) |
+| [Chameleon](/roles/tor-w/crewmates/crewroles/Chameleon.html) | [Mayor](/roles/tor-w/crewmates/crewroles/Mayor.html) | [Sheriff](/roles/tor-w/crewmates/crewroles/Sheriff.html) | [Teleporter](/roles/tor-w/crewmates/crewroles/Teleporter.html) |

@@ -10,7 +10,7 @@
 <tbody>
 <tr>
 <td style="text-align:left"><a href="/changelogs/tor-w/dev.html" style="color:#c9428f"><strong>Latest Test Build</strong></a></td>
-<td style="text-align:left">v1.0.0 Test 1</td>
+<td style="text-align:left">v1.0.0 Test 2</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="/changelogs/tor-w/stable.html" style="color:#4293c9"><strong>Latest Stable</strong></a></td>

@@ -371,9 +371,9 @@ export const SEARCH_INDEX = [
     "extraFields": []
   },
   {
-    "title": "Medic",
+    "title": "Shriff",
     "headers": [],
-    "path": "/roles/tor-w/crewmates/crewroles/Medic.html",
+    "path": "/roles/tor-w/crewmates/crewroles/Sheriff.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -385,9 +385,9 @@ export const SEARCH_INDEX = [
     "extraFields": []
   },
   {
-    "title": "Swooper",
+    "title": "Dragger",
     "headers": [],
-    "path": "/roles/tor-w/impostors/improles/Swooper.html",
+    "path": "/roles/tor-w/impostors/improles/Dragger.html",
     "pathLocale": "/",
     "extraFields": []
   },

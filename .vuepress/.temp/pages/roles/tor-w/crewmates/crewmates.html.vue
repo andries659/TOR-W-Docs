@@ -2,7 +2,7 @@
 <hr>
 <p><strong>Focus on finding the <font color="red">Impostors</font> and completing tasks. For newer players, it is recommended to try out Basic, Support, and few Killing <font color="#8cffff">Crewmate</font> roles, as some can get pretty complicated.</strong></p>
 <h2 id="roles" tabindex="-1"><a class="header-anchor" href="#roles"><span>🚀 Roles 🔧</span></a></h2>
-<p>| <RouteLink to="/roles/tor-w/crewmates/crewroles/Chameleon.html">Chameleon</RouteLink> | <RouteLink to="/roles/tor-w/crewmates/crewroles/Mayor.html">Mayor</RouteLink> | <RouteLink to="/roles/tor-w/crewmates/crewroles/Medic.html">Medic</RouteLink> | <RouteLink to="/roles/tor-w/crewmates/crewroles/Teleporter.html">Teleporter</RouteLink> |</p>
+<p>| <RouteLink to="/roles/tor-w/crewmates/crewroles/Chameleon.html">Chameleon</RouteLink> | <RouteLink to="/roles/tor-w/crewmates/crewroles/Mayor.html">Mayor</RouteLink> | <RouteLink to="/roles/tor-w/crewmates/crewroles/Sheriff.html">Sheriff</RouteLink> | <RouteLink to="/roles/tor-w/crewmates/crewroles/Teleporter.html">Teleporter</RouteLink> |</p>
 </div></template>
 
 
